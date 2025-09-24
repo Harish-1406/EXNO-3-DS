@@ -219,6 +219,6 @@ plt.show()
 <img width="741" height="528" alt="image" src="https://github.com/user-attachments/assets/ffbde4a4-77f4-4969-badd-b0560de56bc4" />
 
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
-
-       
+       In this, experiment starting with the dataset focusing on the data preprocessing and ntransformatiom techniques especially in encoding and transformations.
+       By using the categorical encoding techniques we can convert categorical data into numerical data which will helps the ML model to predict easily.
+       It also covers the transformation technique like yeojohnson and boxcox which helps us to handle skewness.
